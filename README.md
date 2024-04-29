@@ -22,7 +22,7 @@ Note: This program is for educational purposes only and should not be used for a
 ## Installation
 1. Clone the repository:
 
-        git clone https://github.com/your-username/packet-sniffer.git
+        git clone https://github.com/Pythonist-ux/PRODIGY_CS_05.git
 2. Install the required dependencies:
 
          pip install scapy
